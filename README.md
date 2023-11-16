@@ -3,7 +3,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanoelsena084/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emanoelsena084)
 
-![emanoelsena084 GitHub stats](https://github-readme-stats.vercel.app/api?username=emanoelsena84&show_icons=true&theme=radical)
+![emanoelsena084 GitHub stats](https://github-readme-stats.vercel.app/api?username=emanoelsena084&show_icons=true&theme=radical)
 
 ## Tecnologias que estudo e utilizo
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
